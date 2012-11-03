@@ -15,7 +15,9 @@
 #
 # Melfas touchscreen configuration file
 #
-
+touch.surfaceWidth = 320px
+touch.surfaceHeight = 480px
+device.internal = 1
 touch.deviceType = touchScreen
 touch.orientationAware = 1
 #touch.touchSize.calibration = pressure
